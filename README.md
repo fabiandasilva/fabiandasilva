@@ -11,7 +11,8 @@ Hola! 👋<br>Soy Fabian Da Silva, desarrollador web Frontend. Estoy estudiando 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiandasilva&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fabiandasilva&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiandasilva&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 🌐 Socials:
