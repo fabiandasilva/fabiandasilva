@@ -8,3 +8,13 @@ Hola! 👋<br>Soy Fabian Da Silva, desarrollador web Frontend. Estoy estudiando 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabiandasilva/) 
 
 
+<hr>
+
+### ⚡ | Mis proyectos:
+<hr>
+###  <h3>E-commerce (2022)</h3>
+<p>E-commerce desarrollado con JavaScript Sass consumiendo una API creada con mockapi</p>
+
+[Deploy](https://batuk.netlify.app/) | [Repositorio](https://github.com/fabiandasilva/ecommerce-app)
+
+<p align="center"><img src="https://res.cloudinary.com/dew1za4wz/image/upload/v1666987743/plants/screen_orbyhg.png" margin="auto"></p>
