@@ -17,4 +17,4 @@ Hola! 👋<br>Soy Fabian Da Silva, desarrollador web Frontend. Estoy estudiando 
 
 [Deploy](https://batuk.netlify.app/) | [Repositorio](https://github.com/fabiandasilva/ecommerce-app)
 
-<p align="center"><img src="https://res.cloudinary.com/dew1za4wz/image/upload/v1666987743/plants/screen_orbyhg.png" margin="auto"></p>
+<p align="center"><img src="[https://res.cloudinary.com/dew1za4wz/image/upload/v1666987743/plants/screen_orbyhg.png](https://res.cloudinary.com/dew1za4wz/image/upload/v1667181449/screen_xrxqpe.png)" margin="auto"></p>
