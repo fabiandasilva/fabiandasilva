@@ -12,14 +12,14 @@ Hola! 👋<br>Soy Fabian Da Silva, desarrollador web Frontend. Estoy estudiando 
 
 ### ⚡ | Mis proyectos:
 <hr>
-###  <h3>E-commerce (2022)</h3>
+<h3>E-commerce (2022)</h3>
 <p>E-commerce desarrollado con JavaScript Sass consumiendo una API creada con mockapi</p>
 
 [Deploy](https://batuk.netlify.app/) | [Repositorio](https://github.com/fabiandasilva/ecommerce-app)
 
-<p align="center"><img src="https://res.cloudinary.com/dew1za4wz/image/upload/v1667498230/plants/screen_aebkph.png" margin="auto"></p>
+<p align="center"><img src="https://res.cloudinary.com/dew1za4wz/image/upload/v1667785168/plants/screen_th6qfc.png" margin="auto"></p>
 <hr>
-###  <h3>Talent Week CoderHouse</h3>
+<h3>Talent Week CoderHouse (2022)</h3>
 <p>Landing Page realizado para el evento de CoderHouse utilizando las tecnologia de ReactJS Styled Components Sass</p>
 
 [Deploy](https://talent-week.netlify.app/)
