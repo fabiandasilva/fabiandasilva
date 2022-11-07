@@ -23,5 +23,10 @@ Hola! 👋<br>Soy Fabian Da Silva, desarrollador web Frontend. Estoy estudiando 
 <p>Landing Page realizado para el evento de CoderHouse utilizando las tecnologia de ReactJS Styled Components Sass</p>
 
 [Deploy](https://talent-week.netlify.app/)
-
 <p align="center"><img src="https://res.cloudinary.com/dew1za4wz/image/upload/v1667227206/plants/talent_w58knk.png" margin="auto"></p>
+<h3>El Malacara (2022)</h3>
+<p>Landing Page realizado para la pymes El Malacara utilizando Html/Css y JavaScript</p>
+
+[Deploy](https://el-malacara.netlify.app/)
+
+<p align="center"><img src="https://res.cloudinary.com/dew1za4wz/image/upload/v1667785713/plants/el-malacara_u9d7tz.png" margin="auto"></p>
